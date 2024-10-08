@@ -1,0 +1,17 @@
+requirement slide:
+
+1. Self introduction
+    - Name
+    - Place and date of birth
+    - last education
+    - Experience
+
+2. Introduce your web/app
+    - General Information
+    - Function
+    - Targeted user
+
+3. Mention key features of your application
+    - Chose one of the features and explain the use of it
+
+4. Testimony
